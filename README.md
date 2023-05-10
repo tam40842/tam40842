@@ -1,4 +1,4 @@
-![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
+![Easy Frontend banner]([https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg](https://funix.edu.vn/wp-content/uploads/2022/02/Frontend-Developer.jpeg))
 
 # Paul Nguyen - Passionate Web Developer, Frontend Trainer
 
